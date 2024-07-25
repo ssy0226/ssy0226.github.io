@@ -11,7 +11,7 @@ I'm a second year graduate student from [Anhui University](https://www.ahu.edu.c
 
 I am very fortunate to be advised by [Prof. Xingyi Zhang](https://cs.ahu.edu.cn/2023/0815/c20806a313390/page.htm) and [Prof. Haiping Ma](https://bimk.ahu.edu.cn/2021/0402/c12971a256382/page.htm) from Anhui University.
 
-I did my LLM algorithmic post internship at BOSS Zhipin [CSL lab](https://csl.zhipin.com/) from September 2023 to June 2024, during which my supervisor was Dr. Qin Chuan.
+I did my LLM algorithmic post internship at BOSS Zhipin [CSL lab](https://csl.zhipin.com/) from September 2023 to June 2024, during which my supervisor was [Dr. Qin Chuan](https://scholar.google.com.hk/citations?user=0KTz65wAAAAJ&hl=zh-CN&oi=ao).
 
 You can find my CV here: [Siyu Song's Curriculum Vitae](../assets/cv_ssy.pdf).
 
