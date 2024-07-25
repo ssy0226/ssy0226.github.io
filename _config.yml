@@ -21,14 +21,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "ssy.png"
+  name             : "Siyu Song"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  bio              : "Passion and Persistence"
+  location         : "Hefei Anhui, China"
+  employer         : "Anhui University"
+  uri              : https://ssy0226.github.io
+  email            : "siyusong00@gmail.com"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
