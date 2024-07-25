@@ -15,7 +15,7 @@ I did my LLM algorithmic post internship at BOSS Zhipin [CSL lab](https://csl.zh
 
 You can find my CV here: [Siyu Song's Curriculum Vitae](../assets/cv_ssy.pdf).
 
-[Email](mailto:siyusong00@gmail.com) / [Wechat](../images/wechat.jpg)
+[Email](mailto:siyusong00@gmail.com) / [Wechat](../images/wechat.png)
 
 A data-driven personal website
 ======
