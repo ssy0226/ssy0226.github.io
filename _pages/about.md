@@ -20,6 +20,7 @@ I am seeking a PhD position. You can find my CV here: [Siyu Song's Curriculum Vi
 Educational background
 ======
 Anhui University         Master's degree in Artificial Intelligence            2022-09 —— Present
+
 Anhui Normal University  Bachelor's degree in Computer Science and Technology  2017-9 —— 2021-9
 
 Publication
