@@ -35,5 +35,4 @@ Research experience
    Combining cognitive diagnostic methods to assess talents in the field of recruitment and to provide related job recommendations, offering interpretable recommendation content.
 5. **Interpretable Recommendation Based on LLM**
    
-   This study combines the text generation capabilities of Large Language Models (LLMs) with traditional Recommendation Systems (RS) methods for interpretable recommendations. Traditional RS can provide richer historical information but     
-   lacks interpretability, while LLMs suffer from issues like forgetting and hallucinations. By leveraging the strengths of both approaches, the research aims to make more effective and interpretable recommendations.
+   This study combines the text generation capabilities of Large Language Models (LLMs) with traditional Recommendation Systems (RS) methods for interpretable recommendations. Traditional RS can provide richer historical information but lacks interpretability, while LLMs suffer from issues like forgetting and hallucinations. By leveraging the strengths of both approaches, the research aims to make more effective and interpretable recommendations.
