@@ -28,9 +28,12 @@ Publication
 Research experience
 ------
 1. **Adaptive Denoising GNN for Group-level Cognitive Diagnosis**
+   
    The study focuses on diagnosing levels of cognitive ability at the group level, with particular emphasis on the sparsity of group data and data noise. It aims to address these two key issues.
 3. **Intelligent Recruitment Based on Cognitive Diagnostics**
+   
    Combining cognitive diagnostic methods to assess talents in the field of recruitment and to provide related job recommendations, offering interpretable recommendation content.
 5. **Interpretable Recommendation Based on LLM**
+   
    This study combines the text generation capabilities of Large Language Models (LLMs) with traditional Recommendation Systems (RS) methods for interpretable recommendations. Traditional RS can provide richer historical information but     
    lacks interpretability, while LLMs suffer from issues like forgetting and hallucinations. By leveraging the strengths of both approaches, the research aims to make more effective and interpretable recommendations.
