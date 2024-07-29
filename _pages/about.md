@@ -19,9 +19,7 @@ I am seeking a PhD position. You can find my CV here: [Siyu Song's Curriculum Vi
 
 Educational background
 ======
-Anhui University         Master's degree in Artificial Intelligence            2022-09 —— Present
-
-Anhui Normal University  Bachelor's degree in Computer Science and Technology  2017-9 —— 2021-9
+I earned my Bachelor's degree in Computer Science and Technology from the College of Computer and Information Science at Anhui Normal University in 2021. I am currently pursuing a master's degree in Artificial Intelligence at the Institute of Material Science and Information Technology at Anhui University.
 
 Publication
 ======
@@ -30,10 +28,9 @@ Publication
 Research experience
 ------
 1. **Adaptive Denoising GNN for Group-level Cognitive Diagnosis**
-2. **Intelligent Recruitment Based on Cognitive Diagnostics**
-3. **Interpretable Recommendation Based on LLM**
-
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+   The study focuses on diagnosing levels of cognitive ability at the group level, with particular emphasis on the sparsity of group data and data noise. It aims to address these two key issues.
+3. **Intelligent Recruitment Based on Cognitive Diagnostics**
+   Combining cognitive diagnostic methods to assess talents in the field of recruitment and to provide related job recommendations, offering interpretable recommendation content.
+5. **Interpretable Recommendation Based on LLM**
+   This study combines the text generation capabilities of Large Language Models (LLMs) with traditional Recommendation Systems (RS) methods for interpretable recommendations. Traditional RS can provide richer historical information but     
+   lacks interpretability, while LLMs suffer from issues like forgetting and hallucinations. By leveraging the strengths of both approaches, the research aims to make more effective and interpretable recommendations.
