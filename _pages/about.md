@@ -22,7 +22,7 @@ Publication
 1. Haiping Ma, **Siyu Song**, Chuan Qin, Xiaosan Yu, Limiao Zhang, Xingyi Zhang, Hengshu Zhu. "DGCD: An Adaptive Denoising GNN for Group-level Cognitive Diagnosis." 33nd International Joint Conference on Artificial Intelligence **(IJCAI 2024). (CCF-A)** [[Paper&Code]](https://github.com/BIMK/Intelligent-Education/tree/main/DGCD)
 
 Research experience
-------
+======
 1. **Adaptive Denoising GNN for Group-level Cognitive Diagnosis**
 
    This study focuses on diagnosing the level of cognitive ability at the group level, with a particular emphasis on the sparsity and interaction noise of group interaction records. This study aims to address these two key issues.
